@@ -1,5 +1,5 @@
 /* Custom beautiful scrollbar */
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
   width: 10px;
   height: 10px;
 }
@@ -17,13 +17,13 @@
 
 ::-webkit-scrollbar-corner {
   background: #ede9fe;
-}
+} */
 
 /* For Firefox */
-* {
+/* * {
   scrollbar-width: thin;
   scrollbar-color: #a06ed7 #ede9fe;
-}
+} */
 
 /* Optional: Hide scrollbar buttons for a cleaner look */
 ::-webkit-scrollbar-button {

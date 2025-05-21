@@ -1,4 +1,4 @@
-import ReusableForm from "@/components/Form/Form";
+import ReusableForm from "@/components/Form/DialogForm";
 import { Button } from "@/components/ui/button";
 import axios from "axios";
 import { toast } from "sonner";
